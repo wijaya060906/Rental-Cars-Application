@@ -46,7 +46,7 @@ npm run dev  # For backend
 ---
 
 ## 📸 Screenshots
-![Screenshot]([https://i.imgur.com/example.png](https://imgur.com/a/own2144))
+![Screenshot](https://i.imgur.com/TUGAS PPT KAK SETO (2).png)
 
 ---
 
