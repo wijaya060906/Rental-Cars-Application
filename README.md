@@ -1,21 +1,21 @@
 # 🚗 Rental Cars Application
 
 ## 📌 Overview
-Rental Cars Application adalah aplikasi yang dirancang untuk memudahkan pengguna dalam menyewa mobil dengan cepat dan efisien. Aplikasi ini menawarkan berbagai fitur yang membantu pengguna menemukan, memilih, dan menyewa mobil sesuai kebutuhan mereka.
+The Rental Cars Application is designed to help users rent cars quickly and efficiently. This application offers various features that assist users in finding, selecting, and renting cars according to their needs.
 
 ---
 
 ## 🔥 Features
-- ✅ **Pencarian Mobil** - Temukan mobil berdasarkan kategori, harga, dan lokasi.
-- ✅ **Reservasi Online** - Booking mobil dengan mudah langsung dari aplikasi.
-- ✅ **Manajemen Penyewaan** - Kelola daftar mobil yang telah disewa.
-- ✅ **Pembayaran Aman** - Sistem pembayaran yang cepat dan aman.
-- ✅ **User-Friendly Interface** - Tampilan yang modern dan mudah digunakan.
+- ✅ **Car Search** - Find cars based on category, price, and location.
+- ✅ **Online Booking** - Easily book cars directly from the app.
+- ✅ **Rental Management** - Manage the list of rented cars.
+- ✅ **Secure Payment** - Fast and secure payment system.
+- ✅ **User-Friendly Interface** - Modern and easy-to-use interface.
 
 ---
 
 ## 🛠️ Tech Stack
-Aplikasi ini dikembangkan menggunakan teknologi berikut:
+This application is developed using the following technologies:
 - **Frontend:** React Native / Flutter
 - **Backend:** Node.js / Laravel
 - **Database:** MySQL / Firebase
@@ -24,7 +24,7 @@ Aplikasi ini dikembangkan menggunakan teknologi berikut:
 ---
 
 ## 🚀 Installation & Setup
-### 1️⃣ Clone Repository
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/wijaya060906/Rental-Cars-Application.git
 cd Rental-Cars-Application
@@ -32,21 +32,21 @@ cd Rental-Cars-Application
 
 ### 2️⃣ Install Dependencies
 ```bash
-npm install  # untuk Node.js backend
-yarn install  # untuk React Native frontend
+npm install  # for Node.js backend
+yarn install  # for React Native frontend
 ```
 
 ### 3️⃣ Run the Application
 ```bash
-npm start  # Untuk frontend React Native
-yarn start  # Jika menggunakan Expo
-npm run dev  # Untuk backend
+npm start  # For React Native frontend
+yarn start  # If using Expo
+npm run dev  # For backend
 ```
 
 ---
 
 ## 📸 Screenshots
-_(Tambahkan gambar tampilan aplikasi di sini)_
+![Screenshot]([https://i.imgur.com/example.png](https://imgur.com/a/own2144))
 
 ---
 
@@ -62,5 +62,5 @@ _(Tambahkan gambar tampilan aplikasi di sini)_
 ---
 
 ## 📜 License
-Aplikasi ini dilindungi oleh lisensi **MIT License**. Silakan baca file LICENSE untuk detail lebih lanjut.
+This application is protected under the **MIT License**. Please refer to the LICENSE file for more details.
 
