@@ -56,8 +56,8 @@ npm run dev  # For backend
 ---
 
 ## 📞 Contact
-📧 Email: your.email@example.com  
-🌍 Website: [yourwebsite.com](https://yourwebsite.com)
+📧 Email: wijayayusan9@gmail.com  
+🌍 Website: ([https://yourwebsite.com](https://yusan-pamungkas-dev.vercel.app/))
 
 ---
 
